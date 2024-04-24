@@ -2,6 +2,7 @@
 
 	* python/Python.pdf: *, /, + ve - Operatörleri sayfa 31
 	* python/Python.pdf: print Fonksiyonu sayfa 39
+	* python/Python.pdf: Tür Fonksiyonları (Tür Sınıflarının __init__ Metotları) ve Tür Dönüştürmeleri sayfa 40
 
 2024-04-22  Mert Gör  <mertgor@masscollabs.xyz>
 

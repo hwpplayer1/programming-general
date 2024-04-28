@@ -1,8 +1,5 @@
 .POSIX:
-CC = cc
-CFLAGS = -g -Wall -Werror -Wextra
-LDFLAGS =
-LDLIBS =
+include config.mk
 
 BIN = sample
 OBJ = main.o

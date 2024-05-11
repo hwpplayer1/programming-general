@@ -1,4 +1,4 @@
 CC = cc
-CFLAGS = -g -Wall -Werror -Wextra
+CFLAGS = -g -pedantic -pedantic-errors -Wall -Wextra
 LDFLAGS =
 LDLIBS =
